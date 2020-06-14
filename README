@@ -1,0 +1,19 @@
+1) instalace python knihoven:
+    conda create -y --name pedestrian_tracking python==3.7
+    conda install -c conda-forge -y --name pedestrian_tracking --file requirements.txt
+
+2) stažení natrénovaných vah pro YOLO detektor a stažený soubor umístit do rootu projektu:
+	https://pjreddie.com/media/files/yolov3.weights
+
+3) demo
+python3 demo.py
+
+3) Ukázka spuštění trackeru:
+python3 main.py --video_path videos/soccer_01.mp4 --output_video_path "out.mp4"
+
+pokud se --output_video_path nezadá, tak se výstup bude tisknout na obrazovku
+
+4) Ukázky výstupů:
+	a) https://www.youtube.com/watch?v=Ez8tyoqLaWE
+	b) https://www.youtube.com/watch?v=FO1MsboNrUg
+	
