@@ -1,5 +1,5 @@
 # Pedestrian tracking
-Tracking all pedestrian in video.
+Simple tracking all pedestrian in video. Video tutorial here: https://youtu.be/cpyr_Y1_EIk
 
 ## 1) Conda instalation:
  - conda create -y --name pedestrian_tracking python==3.7
