@@ -1,6 +1,11 @@
 # Pedestrian tracking
 Simple tracking all pedestrian in video. 
 
+Theory about Convolutional Neural Network on my channel (CZ):
+ - https://www.youtube.com/channel/UCJHPgSh6Tm3PHZIAka8R7OQ
+
+
+
 Video results here: 
 - https://youtu.be/FO1MsboNrUg
 - https://youtu.be/Ez8tyoqLaWE
